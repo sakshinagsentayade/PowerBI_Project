@@ -5,9 +5,13 @@ Built an interactive Power BI dashboard to analyze customer churn patterns and d
 # Technical Skills
 
   -Power BI: Data import, data cleaning, data transformation, DAX measures, data modeling, and interactive dashboard development.
+  
   -Data Analysis: Customer churn analysis, demographic segmentation, trend identification, and business insights generation.
+  
   -Data Visualization: KPI cards, bar charts, column charts, pie charts, donut charts, heatmaps, slicers, and interactive filters.
+  
   -Data Handling: CSV data import, missing value treatment, data preprocessing, and data quality management.
+  
   -Analytical Skills: Problem-solving, attention to detail, data interpretation, and report presentation.
 
 # Description
